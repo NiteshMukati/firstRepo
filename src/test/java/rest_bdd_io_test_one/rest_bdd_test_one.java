@@ -52,5 +52,12 @@ public class rest_bdd_test_one {
 		
 		
 	}
+	
+	
+	@Test
+	public void test_03()
+	{
+		
+	}
 
 }
